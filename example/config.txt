@@ -1,0 +1,2 @@
+Prefix plugins/RNN/example
+Plugin RNN inputfile parameters.txt outputfile classifications
